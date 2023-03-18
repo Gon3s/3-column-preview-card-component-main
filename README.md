@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/Gon3s/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://gon3s.github.io/3-column-preview-card-component-main/)
 
 
 ## Author
